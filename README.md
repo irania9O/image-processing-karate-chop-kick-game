@@ -15,7 +15,7 @@ _You need to have a 3.X version of Python_
 
 - Make a git clone or download it in zip
     ```bash
-    git clonehttps://github.com/irania9O/image-processing-kaarate-chop-kick.git
+    git clone https://github.com/irania9O/image-processing-kaarate-chop-kick.git
     ```
 
 - Get in the directory
@@ -45,6 +45,9 @@ _You need to have a 3.X version of Python_
 python main.py
 ```
 <br>
+
+# 🖼️  Demo
+<video src='./videos/demo.mp4'>
 
 <!-- # 🖼️  Demo
 <br>
