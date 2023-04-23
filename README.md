@@ -1,6 +1,8 @@
 # ✨Image Processing - Karate Chop Kick
 
 _This project is a simple image processing project that detects the movement of sticks in the Karate Chop Kick game._
+<br>
+Site : https://gamersmoby.com/game-play/karate-chop-kick
 
 <br>
 
@@ -15,7 +17,7 @@ _You need to have a 3.X version of Python_
 
 - Make a git clone or download it in zip
     ```bash
-    git clonehttps://github.com/irania9O/image-processing-kaarate-chop-kick.git
+    git clone https://github.com/irania9O/image-processing-karate-chop-kick-game.git
     ```
 
 - Get in the directory
@@ -46,7 +48,7 @@ python main.py
 ```
 <br>
 
-# 🖼️  
+# 🖼️  Demo
 <br>
 
 ![home](./videos/demo.gif)
